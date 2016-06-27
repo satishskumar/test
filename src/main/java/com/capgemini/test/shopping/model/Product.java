@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * Created by satish on 27/06/16.
  */
-public class Product {
+public abstract class Product {
 
     protected BigDecimal price;
 

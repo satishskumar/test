@@ -83,6 +83,8 @@ public class CheckoutSystemTest {
         assertEquals(0, new Apple().getPrice().add(new Orange().getPrice().add(new Orange().getPrice())).compareTo(testObj.checkout(arbitraryProducts)));
     }
 
+
+
     @Test
     public void testCheckout_With_Three_Oranges() throws Exception {
 

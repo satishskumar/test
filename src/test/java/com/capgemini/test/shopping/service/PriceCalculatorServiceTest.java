@@ -80,4 +80,6 @@ public class PriceCalculatorServiceTest {
 
         assertEquals(0, expectedValue.compareTo(testObj.getTotalPrice(arbitraryProducts)));
     }
+
+
 }
