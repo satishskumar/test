@@ -1,6 +1,9 @@
 Prerequisite to run this test:
+
 1.  Maven 3.0 or more
+
 2.  Junit version 4.12
+
 3. JDK 1.8
 
 Step 1: Shopping cart
