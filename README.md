@@ -6,6 +6,9 @@ Prerequisite to run this test:
 
 3. JDK 1.8
 
+
+Acceptance Criteria:
+
 Step 1: Shopping cart
 ● You are building a checkout system for a shop which only sells apples and 
 oranges.   
@@ -21,5 +24,7 @@ Step 2: Simple offers
 ○ buy one, get one free on Apples 
 ○ 3 for the price of 2 on Oranges 
 ● Update your checkout functions accordingly 
+
+
 
 To run test cases as per acceptance criteria given above user has to run "mvn clean install".
