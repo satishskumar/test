@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * Created by avni on 27/06/16.
+ * Created by satish on 27/06/16.
  */
 public class CheckoutSystem {
 

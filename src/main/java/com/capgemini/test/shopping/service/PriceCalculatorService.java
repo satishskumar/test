@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * Created by avni on 27/06/16.
+ * Created by satish on 27/06/16.
  */
 public class PriceCalculatorService {
 

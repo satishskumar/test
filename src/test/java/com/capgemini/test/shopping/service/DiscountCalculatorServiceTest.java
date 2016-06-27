@@ -13,7 +13,7 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by avni on 27/06/16.
+ * Created by satish on 27/06/16.
  */
 public class DiscountCalculatorServiceTest {
 

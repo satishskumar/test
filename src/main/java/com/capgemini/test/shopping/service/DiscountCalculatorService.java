@@ -11,7 +11,7 @@ import java.util.Objects;
 import static java.util.stream.Collectors.groupingBy;
 
 /**
- * Created by avni on 27/06/16.
+ * Created by satish on 27/06/16.
  */
 public class DiscountCalculatorService {
 
